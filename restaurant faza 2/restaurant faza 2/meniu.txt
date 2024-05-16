@@ -1,0 +1,30 @@
+
+Meniul contine 6 preparate: 
+
+Preparate: 
+Burger 30 lei
+Pizza 25 lei
+Paste 20 lei
+Supa 17 lei
+Prajitura 21 lei
+Apa 6 leiIngredient (ID 0): Carne de vita, Stoc: 10 unitati
+Ingredient (ID 0): Chifla, Stoc: 10 unitati
+Ingredient (ID 0): Salata, Stoc: 10 unitati
+Ingredient (ID 0): Sos special, Stoc: 10 unitati
+Ingredient (ID 0): Aluat, Stoc: 10 unitati
+Ingredient (ID 0): Sos de rosii, Stoc: 10 unitati
+Ingredient (ID 0): Mozzarella, Stoc: 10 unitati
+Ingredient (ID 0): Busuioc, Stoc: 10 unitati
+Ingredient (ID 0): Paste, Stoc: 10 unitati
+Ingredient (ID 0): Sos de carne tocat, Stoc: 10 unitati
+Ingredient (ID 0): Rosii, Stoc: 10 unitati
+Ingredient (ID 0): Busuioc, Stoc: 10 unitati
+Ingredient (ID 0): Legume, Stoc: 10 unitati
+Ingredient (ID 0): Bulion, Stoc: 10 unitati
+Ingredient (ID 0): Condimente, Stoc: 10 unitati
+Ingredient (ID 0): Ciocolata, Stoc: 10 unitati
+Ingredient (ID 0): Vanilie, Stoc: 10 unitati
+Ingredient (ID 0): Faina, Stoc: 10 unitati
+Ingredient (ID 0): Zahar, Stoc: 10 unitati
+Ingredient (ID 0): Oua, Stoc: 10 unitati
+Ingredient (ID 0): Apa de izvor, Stoc: 10 unitati

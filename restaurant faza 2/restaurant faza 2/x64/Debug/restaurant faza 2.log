@@ -1,0 +1,9 @@
+﻿  [Proiect][1051][Cavaler Alexandru] - [Faza 2].cpp
+C:\Users\Alex\source\repos\restaurant faza 2\restaurant faza 2\[Proiect][1051][Cavaler Alexandru] - [Faza 2].cpp(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Alex\source\repos\restaurant faza 2\restaurant faza 2\[Proiect][1051][Cavaler Alexandru] - [Faza 2].cpp(9,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\Alex\source\repos\restaurant faza 2\restaurant faza 2\[Proiect][1051][Cavaler Alexandru] - [Faza 2].cpp(111,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\restaurant faza 2\restaurant faza 2\[Proiect][1051][Cavaler Alexandru] - [Faza 2].cpp(279,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\restaurant faza 2\restaurant faza 2\[Proiect][1051][Cavaler Alexandru] - [Faza 2].cpp(495,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\restaurant faza 2\restaurant faza 2\[Proiect][1051][Cavaler Alexandru] - [Faza 2].cpp(723,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\restaurant faza 2\restaurant faza 2\[Proiect][1051][Cavaler Alexandru] - [Faza 2].cpp(1783,12): warning C4101: 'filePointer': unreferenced local variable
+  restaurant faza 2.vcxproj -> C:\Users\Alex\source\repos\restaurant faza 2\x64\Debug\restaurant faza 2.exe
