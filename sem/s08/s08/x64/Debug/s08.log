@@ -1,0 +1,10 @@
+﻿  s08.cpp
+C:\Programare\Visual Studio 2022\POO\s08\s08\s08.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  C:\Programare\Visual Studio 2022\POO\s08\s08\s08.cpp(1,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Programare\Visual Studio 2022\POO\s08\s08\s08.cpp(199,1): warning C4715: 'Produs::operator+=': not all control paths return a value
+C:\Programare\Visual Studio 2022\POO\s08\s08\s08.cpp(192,1): warning C4715: 'Produs::operator+': not all control paths return a value
+C:\Programare\Visual Studio 2022\POO\s08\s08\s08.cpp(217,1): warning C4715: 'Produs::operator[]': not all control paths return a value
+C:\Programare\Visual Studio 2022\POO\s08\s08\s08.cpp(228,1): warning C4715: 'Produs::operator()': not all control paths return a value
+  s08.vcxproj -> C:\Programare\Visual Studio 2022\POO\s08\x64\Debug\s08.exe
