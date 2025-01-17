@@ -1,0 +1,10 @@
+﻿  tutoring.cpp
+C:\Users\Alex\source\repos\POO\tutoring1\tutoring1\tutoring.cpp(115,11): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+C:\Users\Alex\source\repos\POO\tutoring1\tutoring1\tutoring.cpp(178,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\POO\tutoring1\tutoring1\tutoring.cpp(183,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex\source\repos\POO\tutoring1\tutoring1\tutoring.cpp(224,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\source\repos\POO\tutoring1\tutoring1\tutoring.cpp(226,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\source\repos\POO\tutoring1\tutoring1\tutoring.cpp(236,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\source\repos\POO\tutoring1\tutoring1\tutoring.cpp(237,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\source\repos\POO\tutoring1\tutoring1\tutoring.cpp(238,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  tutoring1.vcxproj -> C:\Users\Alex\source\repos\POO\tutoring1\x64\Debug\tutoring1.exe
